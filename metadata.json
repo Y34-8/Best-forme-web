@@ -1,0 +1,6 @@
+{
+  "name": "BEST FORME",
+  "description": "BEST FORME – Salle de sport premium, musculation, cardio training, fitness et coaching personnalisé à Casablanca, Maroc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
